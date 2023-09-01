@@ -1,0 +1,20 @@
+{
+    "customers": [
+        {
+            "first_name": "joy",
+            "last_name": "joy",
+            "email": "joy@gmail.com",
+            "pin": "1234",
+            "_account_number": "9067903774",
+            "_balance": 12000.0
+        }
+    ],
+    "agents": [
+        {
+            "first_name": "john",
+            "last_name": "john",
+            "email": "john@gmail.com",
+            "pin": "1111"
+        }
+    ]
+}
